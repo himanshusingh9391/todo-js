@@ -1,0 +1,26 @@
+h1{
+   margin-left: 8rem;
+   margin-top: 10rem;
+}
+
+.container{
+    margin-left: 8rem;
+    display: flex;
+    /* margin-top: 5rem; */
+}
+#form{
+    margin-top: 5rem;
+    /* margin-left: 1rem; */
+}
+.right{
+    margin-left: 4rem;
+    margin-top: 6rem;
+}
+button{
+    height: 3vh;
+    width: 7vh;
+    font-size: 1.2rem;
+}
+label{
+    font-size: 1.2rem;
+}
